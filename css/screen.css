@@ -11,7 +11,9 @@ label {
   background-color: #228B22;
   color: #F8F8FF;
 }
-
+input {
+  display: block;
+  background-color:#DCDCDC;
   
 
 @media screen and (max-width: 640px) {
