@@ -4,7 +4,12 @@
 }
 @media screen and (max-width: 640px) {
   body {
-    background-color: gray;
+    background-color: #DCDCDC;
+  }
+  label {
+    display: block;
+    background-color; #F8F8ff;
+    color; #CD5C5C:
   }
   
 }
