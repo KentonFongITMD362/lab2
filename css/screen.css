@@ -8,7 +8,13 @@
   }
   label {
     display: block;
-    background-color; #F8F8FF;
+    background-color: #F8F8FF;
+    color: #228B22;
+  }
+  
+  input {
+    display: block;
+    background-color: #DAA520;
     
   }
   
